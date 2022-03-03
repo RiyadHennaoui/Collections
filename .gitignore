@@ -4,3 +4,5 @@
 /../../Collections\.idea
 */target/**
 */target/*
+target/**
+target/classes
